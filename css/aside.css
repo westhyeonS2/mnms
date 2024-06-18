@@ -9,3 +9,6 @@ aside{
     width: 80%;
     height: 100%;
 }
+.ds_aside_bottom{
+    display: none;
+}
