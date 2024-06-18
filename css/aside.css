@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+aside{
+    width: 100%;
+    height: 100vh;
+    background: rgb(255, 210, 0);
+}
+.ds_main{
+    width: 80%;
+    height: 100%;
+}
